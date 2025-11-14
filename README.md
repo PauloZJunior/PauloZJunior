@@ -10,7 +10,7 @@
   <img align="center" alt="html" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="css" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="react" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="C" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
+  <img align="center" alt="C" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg]" /> 
 </div>
 <!--
 **PauloZJunior/PauloZJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
